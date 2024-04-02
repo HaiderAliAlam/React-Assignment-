@@ -1,0 +1,20 @@
+/* input{
+    border: 15px;
+    border-radius: 5px;
+    border-color: black;
+  } */
+  h3{
+    margin-left: 35px;
+    color: rgb(35, 190, 241);
+  }
+
+input{
+  border-radius: 22px;
+}
+label{
+  text-decoration: none;
+  color:black;
+  margin-left: 35px;
+  padding: 35px;
+  text-shadow: 22ch;
+}
